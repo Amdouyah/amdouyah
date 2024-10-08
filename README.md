@@ -25,8 +25,4 @@ A passionate and motivated individual with a focus on coding, problem-solving, a
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
 [![amdouyah's 42 stats](https://badge.mediaplus.ma/darkblue/amdouyah)](https://github.com/oakoudad/badge42)
