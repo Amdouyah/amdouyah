@@ -3,19 +3,6 @@
 ![I'm a computer science student ](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 A passionate and motivated individual with a focus on coding, problem-solving, and self-improvement. A fast learner eager to explore new technologies, build innovative solutions, and grow by applying skills to real-world challenges.
-
-Skills: C / C++/ PYTHON/ DJANGO/ DOCKER 
-
-
-[![amdouyah's 42 stats](https://badge.mediaplus.ma/darkblue/amdouyah)](https://github.com/oakoudad/badge42)
-
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img align="right" height="120" src="https://media.wired.com/photos/66a6dd57fa70aaf1662783a5/3:2/w_2240,c_limit/Back%20to%20BASIC%20(1).jpg"  />
-
 ###
 
 <div align="left">
@@ -37,3 +24,8 @@ Skills: C / C++/ PYTHON/ DJANGO/ DOCKER
 </div>
 
 ###
+
+[![amdouyah's 42 stats](https://badge.mediaplus.ma/darkblue/amdouyah)](https://github.com/oakoudad/badge42)
+
+<img align="right" height="120" src="https://media.wired.com/photos/66a6dd57fa70aaf1662783a5/3:2/w_2240,c_limit/Back%20to%20BASIC%20(1).jpg"  />
+
